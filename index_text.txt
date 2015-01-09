@@ -1,0 +1,29 @@
+# Responsive Design Workflow 
+
+by Stephen Hay
+ 
+This is a description of what goes under here. It's short but it works and helps inform the user about the actual use of this book and best ways to implement the content and functionality. 
+
+Responsive Design Workflow explores:
+- This is a description of what goes under here. It's short but it works and helps inform the user about the actual use of this book and best ways
+- This is a description of what goes under here. It's short but it works and helps inform the user about the actual use of this book and best ways
+- This is a description of what goes under here. It's short but it works and helps inform the user about the actual use of this book and best ways
+-This is a description of what goes under here. It's short but it works and helps inform the user about the actual use of this book and best ways
+
+## Purchase the Book 
+
+This is a description of what goes under here. It's short but it works and helps inform the user about the actual use of this book and best ways
+
+- [Order from Amazon.com]
+- [Order from Peachpit Press]
+- [Order from Barnes & Noble]
+
+## Resources 
+ [Chapter 1] (http://www.example.com/resources/chapter1)
+ [Chapter 2] (http://www.example.com/resources/chapter2)
+ [Chapter 3] (http://www.example.com/resources/chapter3)
+
+ ## Errata 
+ [Chapter 1] (http://www.example.com/errata/chapter1)
+ [Chapter 2] (http://www.example.com/errata/chapter2)
+ [Chapter 3] (http://www.example.com/errata/chapter3)
